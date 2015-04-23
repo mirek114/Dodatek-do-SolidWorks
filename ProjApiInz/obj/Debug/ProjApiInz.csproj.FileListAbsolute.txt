@@ -1,0 +1,52 @@
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.exe.config
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SldWorks.dll
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwCommands.dll
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwConst.dll
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwMotionStudy.dll
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SWPublished.dll
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csproj.ResolveComReference.cache
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.Form1.resources
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.Properties.Resources.resources
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csproj.GenerateResource.Cache
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.exe
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.pdb
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\bin\Debug\solidworkstools.dll
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.exe
+c:\users\wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.pdb
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csprojResolveAssemblyReference.cache
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.CosmosWorksLib.dll
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.DesignCheckerLib.dll
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SolidWorks.dll
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SW3DPrinter.dll
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwDimXpert.dll
+C:\Users\Wojtek\documents\visual studio 2013\Projects\ProjApiInz\ProjApiInz\obj\Debug\Interop.SWRoutingLib.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.exe.config
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.CosmosWorksLib.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.DesignCheckerLib.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SldWorks.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SolidWorks.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SW3DPrinter.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwCommands.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwConst.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwDimXpert.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SwMotionStudy.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SWPublished.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\Interop.SWRoutingLib.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csproj.ResolveComReference.cache
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.exe
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.pdb
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.exe
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.pdb
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\bin\Debug\solidworkstools.dll
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.Form1.resources
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.Properties.Resources.resources
+C:\Users\domex\Desktop\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csproj.GenerateResource.Cache
+C:\Users\domex\Downloads\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.exe.config
+C:\Users\domex\Downloads\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csproj.ResolveComReference.cache
+C:\Users\domex\Downloads\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.exe
+C:\Users\domex\Downloads\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.pdb
+C:\Studia\semestr 5\ProjApiInz\ProjApiInz\bin\Debug\ProjApiInz.exe.config
+C:\Studia\semestr 5\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.csproj.ResolveComReference.cache
+C:\Studia\semestr 5\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.exe
+C:\Studia\semestr 5\ProjApiInz\ProjApiInz\obj\Debug\ProjApiInz.pdb
